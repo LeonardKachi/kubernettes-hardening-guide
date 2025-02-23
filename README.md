@@ -3,7 +3,7 @@ A security guide to strengthen Kubernetes clusters and reduce misconfigurations 
 
 ## 📖 Table of Contents  
 - [Introduction](#introduction)  
-- [Best Practices](#best-practices)  
+- [Best Practices](#🔒best-practices)  
 - [Security Policies](#security-policies)  
 - [Automation Scripts](#automation-scripts)  
 - [Resources](#resources)  
